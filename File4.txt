@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Added data from VI editor Local Repositery 
+=======
+File4 is created from Remote
+>>>>>>> efbabb266a99937187b5aa742b74001c23c84356
