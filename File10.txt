@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 New content added from lR
-=======
+
 This is new file 10 from LR
->>>>>>> 858ccfba2485b4ebb808dc2e1c13b954ece2130a
+New update added from Develop Branch
